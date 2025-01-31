@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Storm Chambel</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=chambelsc&label=Profile%20views&color=0e75b6&style=flat" alt="chambelsc" /> </p>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there+👋;+I'm+Storm+Chambel;+Welcome!" /></h1>
 <h3 align="center">A Software Developer, Coding Beyond the Horizon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chambelsc&label=Profile%20views&color=0e75b6&style=flat" alt="chambelsc" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chambelsc" alt="chambelsc" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chambelsc" alt="chambelsc" /></a> </p>
 
 - 📫 How to reach me **scpchambel@gmail.com**
 
